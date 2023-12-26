@@ -18,7 +18,9 @@ systemctl restart xray
 
 systemctl status xray
 
+echo -e "\n\n\n"
+xray --version
 echo "Sukses memperbaharui XRAY CORE. Tunggu 5 detik untuk kembali ke menu."
 sleep 5
 
-cd /
+cd ~
