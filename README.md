@@ -4,7 +4,7 @@ Script ini otomatis mengganti XRAY core lama ke versi 1.8.6.
 
 ## Langkah-langkah
 
-1. Clone the repository:
+1. Clone repositori ini
 
    ```bash
    git clone https://github.com/Superhengky/updatexraycore.git
