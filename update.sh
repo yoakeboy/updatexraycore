@@ -16,11 +16,16 @@ rm xray-latest.zip
 
 systemctl restart xray
 
+clear
 systemctl status xray
+echo "Tunggu 5 detik..."
+sleep 5
 
-echo -e "\n\n\n"
+clear
 xray --version
 echo "Sukses memperbaharui XRAY CORE. Tunggu 5 detik untuk kembali ke menu."
 sleep 5
 
-cd ~
+cd root
+sleep 2
+menu
