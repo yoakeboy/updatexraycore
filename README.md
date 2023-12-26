@@ -3,7 +3,8 @@
 Script ini otomatis mengganti XRAY core lama ke versi 1.8.6.
 
 ## CARA 1
-1. Jalankan script berikut
+1. Keluar script dengan cara tekan CTRL + C pada client ssh (JuiceSSH/Termius)
+2. Jalankan script berikut
    
    ```bash
    bash <(curl -sSL https://raw.githubusercontent.com/yoakeboy/updatexraycore/main/update.sh)
@@ -26,5 +27,3 @@ Script ini otomatis mengganti XRAY core lama ke versi 1.8.6.
 6. Jalankan script
    ```bash
    ./update.sh
-
-Jika ada perintah replace maka ketik "y" lalu enter
