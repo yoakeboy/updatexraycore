@@ -16,10 +16,6 @@ rm xray-latest.zip
 
 systemctl restart xray
 
-if systemctl is-active --quiet xray; then
-  echo "XRay Core berhasil diperbaharui."
-else
-  echo "Gagal memperbarui XRay Core."
-fi
+systemctl status xray
 
-cd
+cd /
