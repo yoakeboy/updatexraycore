@@ -6,9 +6,7 @@ Script ini otomatis mengganti XRAY core lama ke versi 1.8.6.
 1. Jalankan script berikut
    
    ```bash
-   git clone https://github.com/yoakeboy/updatexraycore.git && cd updatexraycore && chmod +x update.sh && ./update.sh
-
-2. Lalu ketik 'y'
+   bash <(curl -sSL https://raw.githubusercontent.com/yoakeboy/updatexraycore/main/update.sh)
 
 ## CARA 2
 
