@@ -1,7 +1,7 @@
 #!/bin/bash
 
 XRAY_PATH="/usr/local/bin"
-XRAY_DOWNLOAD_LINK="https://github.com/XTLS/Xray-core/releases/download/v1.7.5/Xray-linux-64.zip"
+XRAY_DOWNLOAD_LINK="https://github.com/XTLS/Xray-core/releases/download/v1.8.6/Xray-linux-64.zip"
 CONFIG_PATH="/etc/xray"
 
 cd /
