@@ -1,6 +1,6 @@
 # UPDATE XRAY CORE 1.8.6 KHUSUS SCRIPT FIGHTER TUNNEL
 
-Script ini otomatis mengganti XRAY core lama ke versi 1.8.6.
+Script ini otomatis mengganti XRAY core lama ke versi 1.8.8.
 
 ## CARA 1
 1. Keluar script dengan cara tekan CTRL + C pada client ssh (JuiceSSH/Termius)
